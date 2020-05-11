@@ -60,6 +60,20 @@ let randomize = function(){
   //  If player levels up, increase hit point type                 
   // Decalre types of player
   
+  // Space Invader
+
+  // Fire based skills
+  let fireBarrage = function(){
+          // Increase the damage
+
+  }
+
+  // Lightning based skills
+  let voltRage = function(){
+        // 
+
+  }
+
   // Hero
   
   let hero = {
