@@ -70,7 +70,7 @@ let randomize = function(){
 
   // Lightning based skills
   let voltRage = function(){
-        // 
+        // Increase the damage
 
   }
 
