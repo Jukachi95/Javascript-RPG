@@ -125,4 +125,5 @@ let randomize = function(){
   // Pseudo code instructions
 
   // Have a state that the player starts in e.g. health and power stats, mana etc
-  
+  // Create the stats for the villains
+  // As the heroes are attacking, the enemy needs to take hits
