@@ -126,4 +126,7 @@ let randomize = function(){
 
   // Have a state that the player starts in e.g. health and power stats, mana etc
   // Create the stats for the villains
-  // As the heroes are attacking, the enemy needs to take hits
+  // As the heroes are attacking, the enemy needs to take hits, there may also be a chance that the attack misses
+  // Update the heroes' state
+  // Take away the health stats of whoever has been attacked
+ 
