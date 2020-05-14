@@ -122,4 +122,7 @@ let randomize = function(){
     points: 80,
   }
   
+  // Pseudo code instructions
+
+  // Have a state that the player starts in e.g. health and power stats, mana etc
   
