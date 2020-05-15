@@ -131,4 +131,5 @@ let randomize = function(){
   // Take away the health stats of whoever has been attacked
 
   // Boss random attacks
+  // Have a move that deals heavy damage
  
