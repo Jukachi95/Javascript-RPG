@@ -121,6 +121,11 @@ let randomize = function(){
     magic: randomize(),
     points: 80,
   }
+
+  // Boss attacks
+
+  // Attack that damages all members of party
+  let lightningOrb
   
   // Pseudo code instructions
 
