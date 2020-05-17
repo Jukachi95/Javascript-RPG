@@ -127,7 +127,10 @@ let randomize = function(){
   // Attack that damages all members of party
   let lightningOrb = {
 
-    
+      // This move does medium damage, so medDamage method here
+
+      // Attack all the members of the party
+
   }
   
   // Pseudo code instructions
