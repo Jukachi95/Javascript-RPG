@@ -125,7 +125,10 @@ let randomize = function(){
   // Boss attacks
 
   // Attack that damages all members of party
-  let lightningOrb
+  let lightningOrb = {
+
+    
+  }
   
   // Pseudo code instructions
 
