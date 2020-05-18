@@ -121,6 +121,11 @@ let randomize = function(){
     points: 80,
   }
 
+//   Mana Energy depletion
+let manaMinus = {
+    
+}
+
   // Boss attacks
 
   // Attack that damages all members of party
@@ -131,6 +136,8 @@ let randomize = function(){
       // Attack all the members of the party
 
   }
+
+
   
   // Pseudo code instructions
 
