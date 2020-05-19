@@ -1,7 +1,15 @@
 // Instructions
 
+// ****Player****
 // 1. 3 player types to choose from
+// 2. Create a list of moves for each player
+// 3. Depending on what move they choose, subtract the mana and if it is health boost, change status of player
+// 4. If an attack is chosen, subtract health from the boss
 
+
+
+
+// if the attack affects all players, attach an object or method to all the players that will inflict damage
 
 
 let randomize = function(){
