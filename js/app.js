@@ -40,7 +40,7 @@ let randomize = function(){
 
   let smallHit = function(){ 
     //  Declare a variable for how many points will be taken from the player 
-    // Can be named points or mana
+    // Can be named points or mana or special points(sp)
     this.points -= 2;
     let smallDamage = Math.floor(Math.random () * 7) 
     return smallDamage
