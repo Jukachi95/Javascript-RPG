@@ -12,7 +12,7 @@
 // 2. Minus the health of the characters
 
 
-                      // Important notes
+                      // ***Important notes***
 // ******* Regarding boss attack
 // If the attack affects all players, attach an object or method to all the players that will inflict damage
 
@@ -26,17 +26,21 @@ let randomize = function(){
   // 1. Declare hit point variables
   // Small damage, medium damage, large damage
   
-  // 2. Decalre attacks for single enemies & multiple enemies
+  // 2. Declare attacks for single enemies & multiple enemies
   
   // 3. Create skills
 
   // 4. Create a way to randomize the boss' moves
  
 
+
+
+
   // Small Hit function   
 
   let smallHit = function(){ 
     //  Declare a variable for how many points will be taken from the player 
+    // Can be named points or mana
     this.points -= 2;
     let smallDamage = Math.floor(Math.random () * 7) 
     return smallDamage
@@ -46,7 +50,7 @@ let randomize = function(){
   
   let medHit = function(){
   //  Declare a variable that subtracts from the mana points?
-      this.points = this.points - 3;
+      this.points -= 3;
       let mediumDamage = Math.floor( Math.random() * 16 ); 
       return mediumDamage;
   //   Previous comment will affect the above return statement
