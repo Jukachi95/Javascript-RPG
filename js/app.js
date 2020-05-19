@@ -7,6 +7,11 @@
 // 4. If an attack is chosen, subtract health from the boss
 
 
+// ****Boss****
+// 1. Randomise the moves that the boss will use
+// 2. Minus the health of the characters
+
+
 
 
 // if the attack affects all players, attach an object or method to all the players that will inflict damage
