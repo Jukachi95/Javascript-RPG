@@ -12,9 +12,9 @@
 // 2. Minus the health of the characters
 
 
-
-
-// if the attack affects all players, attach an object or method to all the players that will inflict damage
+                      // Important notes
+// ******* Regarding boss attack
+// If the attack affects all players, attach an object or method to all the players that will inflict damage
 
 
 let randomize = function(){
