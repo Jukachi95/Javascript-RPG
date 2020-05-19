@@ -1,3 +1,9 @@
+// Instructions
+
+// 1. 3 player types to choose from
+
+
+
 let randomize = function(){
     return Math.floor(Math.random() * 70)
   }
