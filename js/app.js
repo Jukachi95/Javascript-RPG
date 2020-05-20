@@ -15,6 +15,10 @@
                       // ***Important notes***
 // ******* Regarding boss attack
 // If the attack affects all players, attach an object or method to all the players that will inflict damage
+//  Boss health -10. If a move is small damage, randomize between 10 & 25
+
+
+
 
 
 let randomize = function(){
@@ -30,7 +34,9 @@ let randomize = function(){
   
   // 3. Create skills
 
-  // 4. Create a way to randomize the boss' moves
+  // 4. Create a way to randomize the boss' move
+  
+  // 5. Make certain skills only available to certain player classes
  
 
 
@@ -87,6 +93,8 @@ let randomize = function(){
   // Fire based skills
   let fireBarrage = function(){
           // Increase the damage
+          this.points -=4;
+          let largeHit = Math.floor(Math.random() * 65)
 
   }
 
