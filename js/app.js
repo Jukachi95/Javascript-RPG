@@ -95,7 +95,7 @@ let randomize = function(){
           // Increase the damage
           this.points -=4;
           let largeHit = Math.floor(Math.random() * 65)
-
+          return largeHit;
   }
 
   // Lightning based skills
