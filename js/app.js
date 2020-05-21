@@ -1,5 +1,7 @@
 // Instructions
 
+// Impleent a game event
+
 // ****Player****
 // 1. 3 player types to choose from
 // 2. Create a list of moves for each player
