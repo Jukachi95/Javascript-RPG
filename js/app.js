@@ -174,6 +174,7 @@ let manaMinus = {
 
   }
 
+  // Heavy attack move for boss
 
   
   // Pseudo code instructions
