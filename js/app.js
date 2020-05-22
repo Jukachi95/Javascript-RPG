@@ -175,7 +175,11 @@ let manaMinus = {
   }
 
   // Heavy attack move for boss
+  let gravityVortex = {
 
+    
+
+  }
   
   // Pseudo code instructions
 
