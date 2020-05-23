@@ -160,7 +160,8 @@ let randomize = function(){
 
 //   Mana Energy depletion
 let manaMinus = {
-    // Place in the players obects
+    // Place this method the players obects
+
 }
 
   // Boss attacks
