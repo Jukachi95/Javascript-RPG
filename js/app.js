@@ -182,7 +182,11 @@ let manaMinus = {
 
   }
 
-  let largeHeal
+  let largeHeal = {
+
+    mediHeal()
+
+  }
   // Overpowered moves>
   
   // Pseudo code instructions
