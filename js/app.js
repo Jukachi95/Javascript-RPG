@@ -184,6 +184,7 @@ let manaMinus = {
 
   let largeHeal = {
 
+    // Make sure this is an existing method name
     mediHeal()
 
   }
