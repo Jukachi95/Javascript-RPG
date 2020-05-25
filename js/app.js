@@ -188,7 +188,9 @@ let manaMinus = {
     mediHeal()
 
   }
-  // Overpowered moves>
+  // Overpowered moves or the boss
+
+  
   
   // Pseudo code instructions
 
