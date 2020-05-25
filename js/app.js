@@ -190,8 +190,13 @@ let manaMinus = {
     mediHeal()
 
   }
-  // Overpowered moves or the boss
 
+  
+
+                              // Overpowered moves or the boss
+  let orbitalWave = {
+
+  }
 
   
   // Pseudo code instructions
