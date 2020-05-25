@@ -175,7 +175,9 @@ let manaMinus = {
 
   }
 
-  // Heavy attack move for boss
+                                // Heavy attack move for boss
+
+  // Gravity attack
   let gravityVortex = {
 
     largeHit()
@@ -190,7 +192,7 @@ let manaMinus = {
   }
   // Overpowered moves or the boss
 
-  
+
   
   // Pseudo code instructions
 
