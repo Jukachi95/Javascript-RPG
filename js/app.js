@@ -198,7 +198,7 @@ let manaMinus = {
 
     // Deals serious heavy dmage to enemy to the point where they are almost defeated
 
-
+    largeHit()
   }
 
   
