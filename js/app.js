@@ -197,6 +197,7 @@ let manaMinus = {
   let orbitalWave = {
 
     // Deals serious heavy dmage to enemy to the point where they are almost defeated
+    // Check if method exists first
 
     largeHit()
   }
