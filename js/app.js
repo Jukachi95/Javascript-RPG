@@ -143,19 +143,19 @@ let randomize = function(){
   }
   
   let mage = {
-    attack: 25,
-    defense: 30,
-    agility: 30,
-    magic: 60,
-    points: 80,
+        attack: 25,
+        defense: 30,
+        agility: 30,
+        magic: 60,
+        points: 80,
   }
   
   let wildcard = {
-    attack: randomize(),
-    defense: randomize(),
-    agility: randomize(),
-    magic: randomize(),
-    points: 80,
+        attack: randomize(),
+        defense: randomize(),
+        agility: randomize(),
+        magic: randomize(),
+        points: 80,
   }
 
 //   Mana Energy depletion
