@@ -204,6 +204,10 @@ let randomize = function(){
 
   // Items
 
+  let medPotionHeal = {
+    
+  }
+
   
   // Pseudo code instructions
 
