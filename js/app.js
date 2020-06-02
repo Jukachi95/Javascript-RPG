@@ -212,7 +212,9 @@ let randomize = function(){
 
   }
 
-  let largePotionHeal
+  let largePotionHeal = {
+    
+  }
   
   // Pseudo code instructions
 
