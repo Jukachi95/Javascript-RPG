@@ -205,7 +205,7 @@ let randomize = function(){
   // Items
 
   let lightPotionHeal = {
-    
+    // 
   }
 
   let medPotionHeal = {
