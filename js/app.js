@@ -205,7 +205,7 @@ let randomize = function(){
   // Items
 
   let lightPotionHeal = {
-    // 
+    // Depending on character stats, restores min 20 health
   }
 
   let medPotionHeal = {
