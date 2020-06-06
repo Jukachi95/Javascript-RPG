@@ -216,7 +216,7 @@ let randomize = function(){
     // Depending on character stats, restors min 60 health..
   }
   
-  // Pseudo code instructions
+  // Pseudo code instructions..
 
   // Have a state that the player starts in e.g. health and power stats, mana etc
   // Create the stats for the villains
