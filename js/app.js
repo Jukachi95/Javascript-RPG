@@ -213,7 +213,7 @@ let randomize = function(){
   }
 
   let largePotionHeal = {
-    // Depending on character stats, restors min 60 health
+    // Depending on character stats, restors min 60 health..
   }
   
   // Pseudo code instructions
