@@ -224,5 +224,5 @@ let randomize = function(){
   // Update the heroes' state
   // Take away the health stats of whoever has been attacked
 
-  // Boss random attacks
-  // Have a move that deals heavy damage
+  // Boss random attacks..
+  // Have a move that deals heavy damage..
