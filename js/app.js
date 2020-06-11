@@ -1,6 +1,7 @@
 // Instructions
 
 // Make different classes and split up components
+// Create a button that will instantiate the screen?
 
 // Impleent a game event
 
