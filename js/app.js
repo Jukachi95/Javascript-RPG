@@ -1,5 +1,7 @@
 // Instructions
 
+// Make different classes and split up components
+
 // Impleent a game event
 
 // ****Player****
