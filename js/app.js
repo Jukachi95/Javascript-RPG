@@ -2,6 +2,7 @@
 
 // Make different classes and split up components
 // Create a button that will instantiate the screen?
+// Warrior types as one class or separate..
 
 // Impleent a game event
 
