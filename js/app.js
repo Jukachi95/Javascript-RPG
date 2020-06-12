@@ -1,6 +1,6 @@
 // Instructions
 
-// Make different classes and split up components
+// Make different classes and split up components - have a page that takes an event listener
 // Create a button that will instantiate the screen?
 // Warrior types as one class or separate..
 
