@@ -15,7 +15,7 @@
 
 // ****Boss****
 // 1. Randomise the moves that the boss will use
-// 2. Minus the health of the characters
+// 2. Minus the health of the characters that have been attacked
 
 
                       // ***Important notes***
