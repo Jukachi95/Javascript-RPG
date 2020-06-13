@@ -18,7 +18,7 @@
 // 2. Minus the health of the characters that have been attacked
 
 
-                      // ***Important notes***
+                      // ***Important Notes***
 // ******* Regarding boss attack ********
 // If the attack affects all players, attach an object or method to all the players that will inflict damage
 //  Boss health -10. If a move is small damage, randomize between 10 & 25
