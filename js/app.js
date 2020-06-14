@@ -89,7 +89,7 @@ let randomize = function(){
   }
   
   
-  // Healing functions
+  // Healing functions..
   
   let midHeal = function(){
     this.health += 7;
