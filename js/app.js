@@ -98,7 +98,7 @@ let randomize = function(){
   //  If player levels up, increase hit point type                 
   // Decalre types of player
   
-  // Space Invader
+  // Space Invader (skill)
 
   // Fire based skills
   let fireBarrage = function(){
