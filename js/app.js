@@ -197,7 +197,7 @@ let randomize = function(){
 
   
 
-                              // Overpowered moves or the boss
+                              // Overpowered moves or the boss (minimum 3)
   let orbitalWave = {
 
     // Deals serious heavy dmage to enemy to the point where they are almost defeated..
