@@ -95,7 +95,8 @@ let randomize = function(){
     this.health += 7;
   }
   
-  //  If player levels up, increase hit point type                 
+  //  If player levels up, increase hit point type?
+  // Is this going to be a game where they level up or fight one battle? 
   // Decalre types of player
   
   // Space Invader (skill)
