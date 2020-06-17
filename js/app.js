@@ -200,7 +200,7 @@ let randomize = function(){
                               // Overpowered moves or the boss
   let orbitalWave = {
 
-    // Deals serious heavy dmage to enemy to the point where they are almost defeated
+    // Deals serious heavy dmage to enemy to the point where they are almost defeated..
     // Check if the largeHit() method exists first..
 
     largeHit()
