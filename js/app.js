@@ -52,7 +52,7 @@ let randomize = function(){
 
 
 
-  // Small Hit function   
+  // Small Hit function..   
 
   let smallHit = function(){ 
     //  Declare a variable for how many points will be taken from the player 
