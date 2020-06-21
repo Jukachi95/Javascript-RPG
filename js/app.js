@@ -72,7 +72,7 @@ let randomize = function(){
   //   Previous comment will affect the above return statement
   }
 
-  // Large Hit function  
+  // Large Hit function....  
   
   let largeHit = function(){
       this.points -= 5;
