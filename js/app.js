@@ -62,7 +62,7 @@ let randomize = function(){
     return smallDamage
   }
 
-  // Medium Hit function  
+  // Medium Hit function..  
   
   let medHit = function(){
   //  Declare a variable that subtracts from the mana points?
