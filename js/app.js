@@ -75,7 +75,7 @@ let randomize = function(){
   // Large Hit function....  
   
   let largeHit = function(){
-      this.points -= 5;
+      this.lifeP;oints -= 5;
       let largeHit = Math.floor(Math.random () * 25)
       return largeHit;
   }
